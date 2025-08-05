@@ -1,0 +1,32 @@
+[
+    {
+        "id": "23475471-a18d-4aef-9a66-fd9adf763902",
+        "nome": "Vinicius",
+        "cpf": "12102994961",
+        "senha": "a9fbb1afff5e4316df3794c42db75f93ef9b31282c62b6882a72821d397884f0",
+        "endereco": {
+            "cidade": "Garopaba",
+            "bairro": "Macacu",
+            "rua": "Ad abreu",
+            "numero": "0"
+        },
+        "email": "vinicius@bento.com",
+        "telefone": "48991879537",
+        "saldo": 1534
+    },
+    {
+        "id": "c87bf4eb-3abe-413e-9651-a3f7123b46d5",
+        "nome": "Jo\u00e3o",
+        "cpf": "73184847020",
+        "senha": "14f8f4bb8c0e79a02670a5fea5682da717a5b3d3dc7b1706f7a4bab9afae18c2",
+        "endereco": {
+            "cidade": "Rua a",
+            "bairro": "fhdoshfb",
+            "rua": "fhdis",
+            "numero": "0"
+        },
+        "email": "fdjkhsoa+@a.",
+        "telefone": "67378263912",
+        "saldo": 0
+    }
+]
